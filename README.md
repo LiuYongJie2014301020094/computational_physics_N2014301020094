@@ -1,2 +1,6 @@
 # computational_physics_N2014301020094
-works for computational physics
+
+hello world
+
+my first repository on githup
+I love ：coffee：
