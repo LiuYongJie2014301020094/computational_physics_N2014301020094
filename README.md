@@ -5,7 +5,7 @@
 > 
 - [x] [Exercise_01](https://www.zybuluo.com/mdeditor#498195)  
 - [x] [Exercise_02](https://github.com/LiuYongJie2014301020094/computational_physics_N2014301020094/blob/master/Exercise-2.py)
-- [ ] [Exercise_03:All levels]( )  
+- [x] [Exercise_03:All levels](https://www.zybuluo.com/LiuYongJie/note/498195 )  
 - [ ] [Exercise_04:Chapter 1 problem1.5:The decay of two kinds of particles]()  
 - [ ] [Exercise_05:Chapter 1 problem1.6:Population growth]()  
 - [ ] [Exercise_06:Chapter 2 problem2.9﹠2.10:The cannon]()  
