@@ -1,13 +1,13 @@
-#Abstract
-*Moving your English name horizontally on the screen.
-*Let figures spin.
+# Abstract
+ *Moving your English name horizontally on the screen.
+ *Let figures spin.
 
-#Background
-Using python preliminarily.
-Learning how to use matplotlib.
+# Background
+  *Using python preliminarily.
+  *Learning how to use matplotlib.
 
-##The Main Body
-###L 1:  Design a programe to make my Eglish name moved on the screen.
+## The Main Body
+### L 1:  Design a programe to make my Eglish name moved on the screen.
 
 import os 
 import time 
