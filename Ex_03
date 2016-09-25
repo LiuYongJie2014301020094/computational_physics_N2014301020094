@@ -3,10 +3,10 @@
  *Let figures spin.
 
 # Background
-  *Using python preliminarily.
-  *Learning how to use matplotlib.
+ *Using python preliminarily.
+ *Learning how to use matplotlib.
 
-## The Main Body
+# The Main Body
 ### L 1:  Design a programe to make my Eglish name moved on the screen.
 
 import os 
