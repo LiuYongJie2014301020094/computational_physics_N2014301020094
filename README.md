@@ -6,7 +6,7 @@
 - [x] [Exercise_01](https://www.zybuluo.com/mdeditor#498195)  
 - [x] [Exercise_02](https://github.com/LiuYongJie2014301020094/computational_physics_N2014301020094/blob/master/Exercise-2.py)
 - [x] [Exercise_03:All levels](https://github.com/LiuYongJie2014301020094/computational_physics_N2014301020094/blob/master/Ex_03.md)  
-- [ ] [Exercise_04:Chapter 1 problem1.5:The decay of two kinds of particles]()  
+- [x] [Exercise_04:Chapter 1 problem1.5:The decay of two kinds of particles](https://www.zybuluo.com/mdeditor#525363)  
 - [ ] [Exercise_05:Chapter 1 problem1.6:Population growth]()  
 - [ ] [Exercise_06:Chapter 2 problem2.9﹠2.10:The cannon]()  
 - [ ] [Exercise_07:Chapter 2 problem2.19:The spin of baseball and Visual motion of baseball]()  
