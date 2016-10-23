@@ -8,7 +8,7 @@
 - [x] [Exercise_03:All levels](https://github.com/LiuYongJie2014301020094/computational_physics_N2014301020094/blob/master/Ex_03.md)  
 - [x] [Exercise_04:Chapter 1 problem1.5:The decay of two kinds of particles](https://www.zybuluo.com/LiuYongJie/note/525363)  
 - [x] [Exercise_05:Chapter 1 problem2.9:The cannon1](https://www.zybuluo.com/LiuYongJie/note/533809)  
-- [x] [Exercise_06:Chapter 2 problem2.10:The cannon2]()  
+- [x] [Exercise_06:Chapter 2 problem2.10:The cannon2](https://www.zybuluo.com/LiuYongJie/note/542067)  
 - [ ] [Exercise_07:Chapter 2 problem2.19:The spin of baseball and Visual motion of baseball]()  
 - [ ] [Exercise_08:Chapter 3 problem3.4:Non—linear oscillator]()  
 - [ ] [Exercise_09:Chapter 3 problem3.16:Strange attractor]()  
