@@ -9,7 +9,7 @@
 - [x] [Exercise_04:Chapter 1 problem1.5:The decay of two kinds of particles](https://www.zybuluo.com/LiuYongJie/note/525363)  
 - [x] [Exercise_05:Chapter 1 problem2.9:The cannon1](https://www.zybuluo.com/LiuYongJie/note/533809)  
 - [x] [Exercise_06:Chapter 2 problem2.10:The cannon2](https://www.zybuluo.com/LiuYongJie/note/542067)  
-- [ ] [Exercise_07:Chapter 2 problem2.19:The spin of baseball and Visual motion of baseball]()  
+- [x] [Exercise_07:Chapter 2 problem3.12:chaos](https://www.zybuluo.com/LiuYongJie/note/549825)  
 - [ ] [Exercise_08:Chapter 3 problem3.4:Non—linear oscillator]()  
 - [ ] [Exercise_09:Chapter 3 problem3.16:Strange attractor]()  
 - [ ] [Exercise_10:Chapter 3 problem3.31:Billiard ball on diverse table]()  
