@@ -12,7 +12,7 @@
 - [x] [Exercise_07:Chapter 3 problem3.12:chaos](https://www.zybuluo.com/LiuYongJie/note/549825)  
 - [x] [Exercise_08:Chapter 3 problem3.21:Investigate the bifurcation diagrams  with other values of the drive frequency and damping parameter](https://www.zybuluo.com/LiuYongJie/note/565537)  
 - [x] [Exercise_09:Chapter 3 problem3.31:Billiard ball on diverse table](https://www.zybuluo.com/LiuYongJie/note/573435)  
-- [ ] [Exercise_10:Chapter 4 problem4.11:The percession of Mercury]()  
+- [x] [Exercise_10:Chapter 4 problem4.11:The percession of Mercury](https://www.zybuluo.com/LiuYongJie/note/581185)  
 - [ ] [Exercise_11:Chapter 4 problem4.18:The Kirkwood Gap]()  
 - [ ] [Exercise_12:Chapter 5 problem5.7:The Jacob method v.s. The SOR algorithm]()  
 - [ ] [Exercise_13:Chapter 6 problem6.15:The realistic string problem]()  
