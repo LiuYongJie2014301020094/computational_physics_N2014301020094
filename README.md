@@ -14,6 +14,6 @@
 - [x] [Exercise_09:Chapter 3 problem3.31:Billiard ball on diverse table](https://www.zybuluo.com/LiuYongJie/note/573435)  
 - [x] [Exercise_10:Chapter 4 Problem4.9 Orbits are unstable for any value of β（β=2）](https://www.zybuluo.com/LiuYongJie/note/581185)  
 - [x] [Exercise_11:Chapter 4 problem4.19:The exponent varies as a function of the eccentricity of the orbit](https://www.zybuluo.com/LiuYongJie/note/589822)  
-- [ ] [Exercise_12:Chapter 5 problem5.7:The Jacob method v.s. The SOR algorithm]()  
+- [x] [Exercise_12:Chapter 5 problem5.3:The program of the symmetry of the capacitor problem](https://www.zybuluo.com/LiuYongJie/note/597586)  
 - [ ] [Exercise_13:Chapter 6 problem6.15:The realistic string problem]()  
 - [ ] [Final Project:用轨道能量分析Kiekwood Gap的缝宽]()  
