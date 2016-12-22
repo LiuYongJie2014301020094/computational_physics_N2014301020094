@@ -1,6 +1,6 @@
 # Liu Yongjie
-## Wuhan University
-### 2014301020094
+## Wuhan University，School of Physics and Technology，Material physics
+### 2014301020094  Mail:liuyongjie@whu.edu.cn (liuyongjie_whu@qq.com)
 #●Homework
 > 
 - [x] [Exercise_01](https://www.zybuluo.com/mdeditor#498195)  
@@ -17,7 +17,6 @@
 - [x] [Exercise_12:Chapter 5 problem5.3:The program of the symmetry of the capacitor problem](https://www.zybuluo.com/LiuYongJie/note/597586)  
 - [x] [Exercise_13:Chapter 6 problem6.12:The realistic string problem](https://www.zybuluo.com/LiuYongJie/note/604880)  
 >
-
 #●Final Project
 >
 - [ ] [Final Project:任选一题]()  
