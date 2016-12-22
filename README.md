@@ -1,7 +1,7 @@
 # Liu Yongjie
 ## Wuhan University
 ### 2014301020094
-
+#●Homework
 > 
 - [x] [Exercise_01](https://www.zybuluo.com/mdeditor#498195)  
 - [x] [Exercise_02](https://github.com/LiuYongJie2014301020094/computational_physics_N2014301020094/blob/master/Exercise-2.py)
@@ -16,4 +16,5 @@
 - [x] [Exercise_11:Chapter 4 problem4.19:The exponent varies as a function of the eccentricity of the orbit](https://www.zybuluo.com/LiuYongJie/note/589822)  
 - [x] [Exercise_12:Chapter 5 problem5.3:The program of the symmetry of the capacitor problem](https://www.zybuluo.com/LiuYongJie/note/597586)  
 - [x] [Exercise_13:Chapter 6 problem6.12:The realistic string problem](https://www.zybuluo.com/LiuYongJie/note/604880)  
+#●Final Project
 - [ ] [Final Project:任选一题]()  
