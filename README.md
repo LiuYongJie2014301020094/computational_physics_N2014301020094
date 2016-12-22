@@ -1,4 +1,4 @@
-# Liu Yongjie
+# Liu Yongjie 刘永杰
 ## Wuhan University，School of Physics and Technology，Material physics
 ### 2014301020094  Mail:liuyongjie@whu.edu.cn (liuyongjie_whu@qq.com)
 #●Homework
