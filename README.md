@@ -20,4 +20,5 @@
 
 #●Final Project
 >
-- [x] [Final Project:用轨道能量分析缝宽](https://www.zybuluo.com/LiuYongJie/note/609440)  
+- [x] [Final Project1:用轨道能量分析缝宽](https://www.zybuluo.com/LiuYongJie/note/609440)  
+- [x] [Final Project2:Random systems](https://www.zybuluo.com/LiuYongJie/note/626059)  
